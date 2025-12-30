@@ -49,4 +49,3 @@ modules:
                     index: 'fadcVdNumber.{{ $index }}'
                     high_limit: '{{ $fadcVdMaxVdoms }}'
                     descr: VDOMs
-
